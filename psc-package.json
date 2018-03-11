@@ -1,0 +1,12 @@
+{
+  "name": "ffi-props-demo-he",
+  "set": "dotorimuk",
+  "source": "https://github.com/justinwoo/package-sets.git",
+  "depends": [
+    "foreign",
+    "ffi-props",
+    "console",
+    "eff",
+    "prelude"
+  ]
+}
